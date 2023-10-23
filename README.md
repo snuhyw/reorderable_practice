@@ -1,16 +1,6 @@
-# reorderable_practice
+# Disclaimer
+This repository was created to demonstrate a specific behavior observed when using ReorderableListView in a Bloc-based Flutter web application. The intention is not to imply that there's an inherent issue with Flutter or Bloc, but rather to seek guidance or solutions on how the code can be improved or refactored to address this behavior. Any insights or contributions are highly appreciated.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Related StackOverflow Question
+For more context on this issue, please refer to the following StackOverflow question:
+[Flutter: Issue with reordering list from Bloc state in ReorderableListView.builder](https://stackoverflow.com/questions/77342262/flutter-issue-with-reordering-list-from-bloc-state-in-reorderablelistview-build)
